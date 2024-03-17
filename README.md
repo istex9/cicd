@@ -2,6 +2,11 @@
 
 A labor során a hallgatók a CI/CD környezet kialakításával és alkalmazásával fognak megismerkedni. A CI/CD a “continuous integration” és “continuous delivery/deployment” rövidítése, vagyis ez a módszer(tan) a folyamatos integrációt és folyamatos szállítást/telepítést jelenti. Azért nevezik gyakran CI/CD “pipeline”-nak ezt, mert ezek egymásra épülő folyamatok és mint a vízvezetékeknél, általában az irány adott.
 
+
+[![Actions Status](https://github.com/istex9/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/istex9/cicd/actions)
+
+Legfrissebb release: [Itt letölthető](https://github.com/istex9/cicd/releases/tag/latest)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
